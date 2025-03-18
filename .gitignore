@@ -25,7 +25,6 @@
 *.pch
 
 # CMake build directory
-/build/
 CMakeFiles/
 CMakeCache.txt
 CMakeLists.txt.user
